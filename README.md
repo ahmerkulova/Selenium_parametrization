@@ -6,4 +6,4 @@
 3. Implement launching tests with language specified by user
 4. Browser must be declared in 'browser' fixture and ised in tests as parameter
 5. In test_items.py, write a test checking 'add to cart' button availability at http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207
-6.Test must be run with language parameter, which executes the command: pytest --language=es test_items.py and succeeds
+6. Test must be run with language parameter, which executes the command: pytest --language=es test_items.py and succeeds
